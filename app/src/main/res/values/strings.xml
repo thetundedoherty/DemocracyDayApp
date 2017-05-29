@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Democracy Day App</string>
+
+    <string name="send_message">Open</string>
+
+    <string name="democracy_day">Democracy Day 29th May 2017</string>
+
+    <string name="name">Name</string>
+
+    <string name="location">Location</string>
+
+    <string name="message">Message</string>
+
+    <string name="welcome_text">Welcome</string>
+
+    <string name="share">Share</string>
+</resources>
